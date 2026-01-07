@@ -2,7 +2,7 @@
 set -e
 
 ### CONFIG ###
-ISO_URL="https://crustywindo.ws/collection/Windows%2011/Windows%2011%2022H2%20Build%2022621.2134%20Gamer%20OS%20en-US%20ESD%20August%202023.iso"
+ISO_URL="https://onedrive-cf.cloudmini.net/api/raw?path=/Public/Vultr/M%E1%BB%9Bi%201909/Update%200907/2012R2.iso"
 ISO_FILE="win11-gamer.iso"
 
 DISK_FILE="win11.qcow2"

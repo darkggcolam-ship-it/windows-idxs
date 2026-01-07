@@ -2,7 +2,7 @@
 set -e
 
 ### CONFIG ###
-ISO_URL="https://crustywindo.ws/collection/Windows%2010/Windows%2010%20Lite.iso"
+ISO_URL="https://onedrive-cf.cloudmini.net/api/raw?path=/Public/Vultr/M%E1%BB%9Bi%201909/Update%200907/Win10_ltsc_x64FRE_en-us.iso"
 ISO_FILE="win11-gamer.iso"
 
 DISK_FILE="win11.qcow2"

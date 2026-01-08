@@ -6,7 +6,7 @@ set -e
 
 ### CONFIG ###
 
-ISO_URL="https://onedrive-cf.cloudmini.net/api/raw?path=/Public/Vultr/M%E1%BB%9Bi%201909/Update%200907/2012R2.iso"
+ISO_URL="https://archive.org/download/vultr-update-0907/Windows_Server_2019.iso"
 
 ISO_FILE="win11-gamer.iso"
 
@@ -155,7 +155,6 @@ qemu-system-x86_64 \
   -boot order=d \
   -netdev user,id=net0,hostfwd=tcp::3389-:3389 \
   -vnc :0 \
-  -no-reboot \
   -usb -device usb-tablet &
 
 

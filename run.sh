@@ -176,3 +176,4 @@ do
     # 2. Chờ 5 phút (5 * 60 = 300 giây)
 
     sleep 300
+done

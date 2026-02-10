@@ -9,7 +9,7 @@ DISK_FILE="/var/win11.qcow2"
 DISK_SIZE="64G"
 
 RAM="16G"
-CORES="8"
+CORES="4"
 
 VNC_DISPLAY=":0"
 RDP_PORT="3389"

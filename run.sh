@@ -8,8 +8,8 @@ ISO_FILE="win11-gamer.iso"
 DISK_FILE="/var/win11.qcow2"
 DISK_SIZE="64G"
 
-RAM="8G"
-CORES="4"
+RAM="16G"
+CORES="8"
 
 VNC_DISPLAY=":0"
 RDP_PORT="3389"
@@ -18,7 +18,7 @@ FLAG_FILE="installed.flag"
 WORKDIR="$HOME/windows-idx"
 
 ### NGROK ###
-NGROK_TOKEN="38WO5iYPn4Hq5A5SUOjtGptsxfE_7jDB4PmSF78GKcAguUo1H"
+NGROK_TOKEN="39TD6Hz2eB0ZKGmrQ29ujYdjNfy_3XS5Km5Rb2ePZWLNo7kwh"
 NGROK_DIR="$HOME/.ngrok"
 NGROK_BIN="$NGROK_DIR/ngrok"
 NGROK_CFG="$NGROK_DIR/ngrok.yml"
